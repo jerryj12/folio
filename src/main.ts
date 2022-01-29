@@ -10,3 +10,9 @@ if (environment.production) {
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
+
+  function myfunc(){
+    var element = document.body;
+    element.classList.toggle('light');
+  
+  }

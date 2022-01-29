@@ -1,0 +1,32 @@
+.flexbox-container{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10%;
+}
+.flexbox-item{
+    width: 400px;
+    height: 500px;
+    margin: 8px;
+    border: 2px solid black;
+}
+.cinema{ background-image: url("cinema.PNG");}
+.sales{ background-image: url("sales complete.PNG");}
+.ticket{ background-image: url("ticket.PNG");}
+.mini{ background-image: url("mini mart.PNG");}
+.reciptmart{ background-image: url("reciptmart.PNG");}
+.mart{ background-image: url("martdb.JPG");}
+.coffee{ background-image: url("coffee.JPG");}
+.coffee1{ background-image: url("coffee1.JPG");}
+.coffee2{ background-image: url("coffee2.JPG");}
+
+.todo{
+    background-image: url("todo.JPG");
+}
+.tdo{
+    background-image: url("tdo.JPG");
+}
+.todoo{
+    background-image: url("todoo.jpg");
+}

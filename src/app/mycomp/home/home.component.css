@@ -1,0 +1,26 @@
+.cent{
+    display: flex;
+    color: saddlebrown;
+    height: 75px;
+    width: 370px;
+    margin-left: 10%;
+    margin-top: 10%;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-shadow: 2px 2px #554e4e;
+
+}
+.para{
+    display: flex;
+    color: saddlebrown;
+    height: 75px;
+    width: 370px;
+    margin-left: 10%;
+    font-size: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-shadow: 2px 2px #554e4e;
+
+}
+button{
+    
+    margin-left: 10%;
+}
